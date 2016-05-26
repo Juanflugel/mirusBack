@@ -1,0 +1,18 @@
+{
+  "name": "mirusback",
+  "version": "0.0.1",
+  "description": "Backend for mirus app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "tsj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19"
+  }
+}
