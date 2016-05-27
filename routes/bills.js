@@ -5,20 +5,29 @@ function bills (app,Bill){
 
 	app.use(bodyParser.json());
 
-	app.get('/prueba',prueba);
+	app.get('/bills',getBills);
 	app.post('/prueba',postyea);
 
 	function postyea(req,res){
 		Bill.create(req.body,function (err,obj){
+			console.log('nuevo');
 			res.json(obj);
 		});	
 	}
 
-	function prueba (req,res){
+	function getBills (req,res){
 		// res.json('todo bien primo');
-		Bill.find({},function (err,array){
+		function getBillById (){
+			const query = req.query;
+			console.log(query);
+			Bill.find(query,function (err,array){
 			res.json(array);
 		});
+		}
+		if (req.query){
+			getBillById();
+		}
+		
 	}
 
 

@@ -1,0 +1,56 @@
+ {
+    "billId": "EDK010101",
+    "providerId": "EDK",
+    "providerName": "EDEKA",
+    "providerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Edeka.svg/433px-Logo_Edeka.svg.png",
+    "__v": 0,
+    "bougthProducts": [
+      {
+        "itemId": "w01",
+        "itemImage": "String",
+        "itemName": "Wasser",
+        "itemAmount": 3,
+        "itemUnits": "Liter",
+        "itemPrice": 0.39,
+        "_id": "574843535441a2630f8dca8f"
+      }
+    ]
+  },
+  {
+    "_id": "574844c05441a2630f8dca90",
+    "billId": "EDK010102",
+    "providerId": "EDK",
+    "providerName": "EDEKA",
+    "providerImage": "http://www.liveshopping-aktuell.de/wp-content/uploads/2013/09/edeka-gutschein-zum-ausdruecken-5euro-bei-20euro-einkaufswert-medium.png",
+    "__v": 0,
+    "bougthProducts": [
+      {
+        "itemId": "w01",
+        "itemImage": "String",
+        "itemName": "Wasser",
+        "itemAmount": 3,
+        "itemUnits": "Liter",
+        "itemPrice": 0.39,
+        "_id": "574844c05441a2630f8dca91"
+      }
+    ]
+  },
+  {
+    "_id": "57488dafde22f8a15517c948",
+    "billId": "EDK010103",
+    "providerId": "EDK",
+    "providerName": "EDEKA",
+    "providerImage": "http://www.liveshopping-aktuell.de/wp-content/uploads/2013/09/edeka-gutschein-zum-ausdruecken-5euro-bei-20euro-einkaufswert-medium.png",
+    "__v": 0,
+    "bougthProducts": [
+      {
+        "itemId": "w01",
+        "itemImage": "String",
+        "itemName": "Wasser",
+        "itemAmount": 3,
+        "itemUnits": "Liter",
+        "itemPrice": 0.39,
+        "_id": "57488dafde22f8a15517c949"
+      }
+    ]
+  }

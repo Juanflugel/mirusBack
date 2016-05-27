@@ -18,9 +18,10 @@ var bills = require('./routes/bills.js');
 
 
 // set up
-bills(app,Bill);
 
 app.use(cors());
+bills(app,Bill);
+
 
 app.get('/', function (req, res) {
   res.send('Hello World!');

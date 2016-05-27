@@ -6,6 +6,7 @@ var billSchema = new Schema ({
 	billId:String,
 	providerId:String,
 	providerName:String,
+	providerImage:String,
 	bougthProducts:[{
 		itemId:String,
 		itemImage:String,
