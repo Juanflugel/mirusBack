@@ -7,6 +7,10 @@ var billSchema = new Schema ({
 	providerId:String,
 	providerName:String,
 	providerImage:String,
+	mallAddress:String,
+	purchaseDate:Date,
+	totalPaid:Number,
+	currency:String,
 	bougthProducts:[{
 		itemId:String,
 		itemImage:String,
@@ -15,6 +19,7 @@ var billSchema = new Schema ({
 		itemAmount:Number,
 		itemUnits:String,
 		itemPrice:Number,
+		itemPriceCurrency:String
 
 	}]
 
