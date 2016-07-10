@@ -222,7 +222,96 @@
       }
 
     ]
+  },
+
+  {
+    "billId": "ALDI02",
+    "providerId": "ALDIDE",
+    "providerName": "ALDI",
+    "providerImage": "https://www.aldi.es/export/sites/aldi/.galleries/imagenes-anexo/aldi_logo_footer.png",
+    "mallAddress":"PLÖNER LANDSTR 8-10",
+    "__v": 0,
+    "purchaseDate":"Tue Jun 07 2016 20:52:19 GMT+0200 (CEST)",
+    "totalPaid":18.08,
+    "currency":"EUR",
+    "bougthProducts": [
+      {
+        "itemId": "gurk01",
+        "itemImage": "http://www.sky.coop/files/coop/template/img/logos/sky-logo-supernarkt.png",
+        "itemName": "Gurken Stück",
+        "itemAmount": 1,
+        "itemUnits": "Stück",
+        "itemPrice": 0.49,
+        "itemLastDate":"Tue Jun 27 2016 20:52:19 GMT+0200 (CEST)"
+
+      },
+      {
+        "itemId": "SOLO-01",
+        "itemImage": "http://www.discounter-preisvergleich.de/bilder/produkte/113/113_2010-10-11-12-59-50.jpg",
+        "itemName": "Solo Haushaltsrolle",
+        "itemAmount": 1,
+        "itemUnits": "Paket",
+        "itemPrice": 1.35,
+        "itemLastDate":"Sun May 29 2016 12:42:31 GMT+0200 (CEST)"
+
+      },
+        {
+        "itemId": "ap-01",
+        "itemImage": "http://t0.gstatic.com/images?q=tbn:ANd9GcQhRaLfm-3dRMsUWOklhKXDzi5hrRQnyj-ks606b9ZfhmwvnfS4B5bO",
+        "itemName": "Apfelschorle",
+        "itemAmount": 6,
+        "itemUnits": "Flasche",
+        "itemPrice": 3.35,
+        "itemLastDate":"Tue Jun 29 2016 20:52:19 GMT+0200 (CEST)"
+
+      },
+      {
+        "itemId": "mezz-01",
+        "itemImage": "https://www.real-drive.de/medias/sys_master/images/productimages/7/758635_1_1_picture.jpg",
+        "itemName": "Mezzo mix",
+        "itemAmount": 1,
+        "itemUnits": "Flasche",
+        "itemPrice": 0.89,
+        "itemLastDate":"Sun May 29 2016 12:42:31 GMT+0200 (CEST)"
+
+      },
+      {
+        "itemId": "apsft-01",
+        "itemImage": "http://www.getraenke-frieling.de/online-bestellung/images/saft/81112-BB-Apfelsaft-klar.jpg",
+        "itemName": "Apfel Saft Klar",
+        "itemAmount": 1,
+        "itemUnits": "Flasche",
+        "itemPrice": 0.69,
+        "itemLastDate":"Tue Jun 29 2016 20:52:19 GMT+0200 (CEST)"
+      },
+        {
+        "itemId": "asf-01",
+        "itemImage": "http://www.aldi-nord.de/images/mehrfrucht_direktsaft_medium_32942.jpg",
+        "itemName": "Direkt Saft",
+        "itemAmount": 1,
+        "itemUnits": "Karton",
+        "itemPrice": 1.59,
+        "itemLastDate":"Tue Jun 29 2016 20:52:19 GMT+0200 (CEST)"
+
+      },
+      {
+        "itemId": "Trau-01",
+        "itemImage": "http://t3.gstatic.com/images?q=tbn:ANd9GcT0rw_8ml7uTgUziRQi3QJ4k3C4R0cKV67lc2rQeD2suIyT3FW3IfbO",
+        "itemName": "Traubendirektsaft",
+        "itemAmount": 1,
+        "itemUnits": "Becher",
+        "itemPrice": 0.65,
+        "itemLastDate":"Sun May 29 2016 12:42:31 GMT+0200 (CEST)"
+
+      }       
+
+    ]
   }
+  
+
+
+
+  
   
 
 
